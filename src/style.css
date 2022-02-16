@@ -1,6 +1,5 @@
 .fieldset {
   margin-bottom: 20px;
-  display: block;
 }
 
 .form-field {
@@ -8,6 +7,6 @@
   margin-bottom: 10px;
 }
 
-.fieldset:first-child {
-  margin-top: 0;
+.form-field:last-child {
+  margin-bottom: 0;
 }
